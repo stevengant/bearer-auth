@@ -8,8 +8,8 @@
 Modularize the provided code
 
 ## Links and Resources
-  - GitHub Actions ci/cd
-  - back-end server url
+  - [GitHub Actions ci/cd](https://github.com/stevengant/bearer-auth/actions)
+  - [back-end server url](https://stevegant-bearer-auth.onrender.com)
 
 ## Setup
 .env requirements (where applicable)
